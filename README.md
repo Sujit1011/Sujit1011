@@ -2,9 +2,17 @@
 
 <h3 align="center">
         <samp>&gt; Hello World!, I am
-                <b><a target="_blank" href="https://shahriarshafin.me/">Sujit Soren</a></b>
+                <b><a target="_blank" href="#">Sujit Soren</a></b>
         </samp>
 </h3>
+
+<p align="center">
+        <samp>
+                <br>
+                        Computer Science Undergrad @<b> IIITDM Jabalpur</b>
+                <br>
+        </samp>
+</p>
 
 
 <!--
