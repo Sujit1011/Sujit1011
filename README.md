@@ -14,6 +14,15 @@
         </samp>
 </p>
 
+<br>
+
+<p align="center">
+<a href="https://github.com/Sujit1011">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujit1011&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sujit1011&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="MANISH007700's github stats"/>
+</a></p>
+<br>
+
 
 <!--
 **Sujit1011/Sujit1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
