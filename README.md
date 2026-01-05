@@ -16,10 +16,10 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/Sujit1011">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sujit1011&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e%22%20alt=%22MANISH007700%27s%20github%20stats"/>
-</a></p>
+</a></p> -->
 <br>
 
 
